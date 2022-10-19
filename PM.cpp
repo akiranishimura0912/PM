@@ -5,8 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello World2!\n";
-    std::cout << "Hello masterWorld3!\n";
+    std::cout << "Hello GitWorld!\n";
+    std::cout << "Hello masterBlanch!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
