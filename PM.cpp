@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello GitWorld!\n";
+    std::cout << "Hello masterBlanch!\n"; 
+    std::cout << "Hello masterBlanch!\n";
     std::cout << "Hello masterBlanch!\n";
 }
 
